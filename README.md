@@ -1,3 +1,9 @@
+Version 1.2  
+  
+-Completed the design of "Warahouse" page  
+-Completed the design of "Workbar" page
+
+
 Version 1.1
 
 -Completed the design of "Main Menu" page  
