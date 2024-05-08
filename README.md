@@ -1,3 +1,9 @@
+Version2.0.1  
+  
+-The warehouse function has been initialized  
+-The map has been upload to the moudle  
+  
+
 Version1.2.1  
   
 -Change the "Workbar" to "Current Project"
