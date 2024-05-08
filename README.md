@@ -1,7 +1,7 @@
-Version2.0.2 
+Version2.0.3 
   
--The discussion function has been initialized  
--The text part has been completed   
+-The Current Project function has been initialized  
+-The work bar function has been completed   
   
 
 Version1.2.1  
