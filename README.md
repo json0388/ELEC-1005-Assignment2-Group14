@@ -1,7 +1,7 @@
-Version2.0.1  
+Version2.0.2 
   
--The warehouse function has been initialized  
--The map has been upload to the moudle  
+-The discussion function has been initialized  
+-The text part has been completed   
   
 
 Version1.2.1  
