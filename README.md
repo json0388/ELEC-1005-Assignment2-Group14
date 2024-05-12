@@ -1,3 +1,9 @@
+Version 2.1.2  
+  
+-completed the design of subpage1  
+-completed the design of subpage2  
+  
+
 Version2.0.2 
   
 -The discussion function has been initialized  
