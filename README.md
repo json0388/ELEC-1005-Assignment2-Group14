@@ -1,7 +1,11 @@
+Version 2.2.2  
+  
+-Completed the function between main page and subpage  
+
 Version 2.1.2  
   
--completed the design of subpage1  
--completed the design of subpage2  
+-Completed the design of subpage1  
+-Completed the design of subpage2  
   
 
 Version2.0.2 
