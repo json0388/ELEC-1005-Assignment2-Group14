@@ -1,13 +1,13 @@
 Version1.2.1  
   
--Change the "Workbar" to "Current Project"
+-Change the "Workbar" to "Current Project"  
 (Have a group meeting on May 12th
 
 
 Version 1.2  
   
 -Completed the design of "Warahouse" page  
--Completed the design of "Workbar" page
+-Completed the design of "Workbar" page  
 (Have a group meeting on May 5th
 
 
