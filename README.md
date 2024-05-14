@@ -1,4 +1,10 @@
+Version 2.2.3  
+  
+-Completed the function of Currrent Project module  
+  
+
 Version2.1.3  
+  
 -Completed the design of Subpage1  
 -Completed the design of Subpage2  
 -Completed the design of Subpage3  
@@ -17,7 +23,7 @@ Version1.2.1
 
 Version 1.2  
   
--Completed the design of "Warahouse" page  
+-Completed the design of "Warehouse" page  
 -Completed the design of "Workbar" page
 
 
