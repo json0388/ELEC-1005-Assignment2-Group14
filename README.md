@@ -1,11 +1,16 @@
+Version 2.1.1.1  
+  
+-Completed the UI of whole Warehouse  
+  
+
 Version 2.1.1  
 
--Completed the design of Subpage of Warahouse  
+-Completed the design of Subpage of Warehouse  
   
 
 Version2.0.1  
   
--The warehouse function has been initialized  
+-he warehouse function has been initialized  
 -The map has been upload to the moudle  
   
 
@@ -16,7 +21,7 @@ Version1.2.1
 
 Version 1.2  
   
--Completed the design of "Warahouse" page  
+-Completed the design of "Warehouse" page  
 -Completed the design of "Workbar" page
 
 
