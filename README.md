@@ -1,3 +1,7 @@
+Version 2.2.1  
+  
+-Completed the initial function of Warehouse  
+  
 Version 2.1.1.1  
   
 -Completed the UI of whole Warehouse  
