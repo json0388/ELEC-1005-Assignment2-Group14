@@ -1,3 +1,7 @@
+Version 2.3.2  
+  
+-Completed the function of Discussion module  
+  
 Version 2.2.2  
   
 -Completed the function between main page and subpage  
