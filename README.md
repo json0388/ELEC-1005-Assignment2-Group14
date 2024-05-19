@@ -1,3 +1,7 @@
+Version 2.4.2  
+
+--Completed all the test  
+
 Version 2.3.2  
   
 -Completed the function of Discussion module  
