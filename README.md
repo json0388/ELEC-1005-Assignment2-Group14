@@ -1,3 +1,8 @@
+Version3.0
+
+-Completed all moudle
+-Completed all test
+
 Version1.2.1  
   
 -Change the "Workbar" to "Current Project"  
